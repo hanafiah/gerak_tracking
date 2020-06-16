@@ -4,6 +4,6 @@
 :: contoh
 ::      .\dc php artisan
 
-docker exec -it -w /var/www/projects/rnd/tenancy php7.fpm %*
+docker exec -it -w /var/www/projects/rnd/gerak_tracking php7.fpm %*
 @echo:
 @echo:
